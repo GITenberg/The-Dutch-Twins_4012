@@ -1,5 +1,8 @@
 _repo: The-Dutch-Twins_4012
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Perkins, Lucy Fitch
@@ -13,6 +16,8 @@ description: One in a series of stories introducing a period in history and geog
   location through the adventures of twins. Here, Dutch twins Kit and Kat spend happy
   hours fishing off the pier, shopping at the village market, skating on the canal,
   and celebrating St. Nicholas Day.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4012#The-Dutch-Twins
 gutenberg_bookshelf: Children's Book Series
 gutenberg_issued: '2003-05-01'
 gutenberg_type: Text
